@@ -2132,6 +2132,13 @@
   dependencies:
     "@types/react" "*"
 
+"@types/react-native@0.55.4":
+  version "0.55.4"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.55.4.tgz#866005d86490e2fd60543b143b2a5ac208aa925b"
+  integrity sha512-1wPLRLNVSRFBHuwm0WtukUeR8nU63WpKMiCXD5OWJnjYUJ2fq+H/oYJq4Q4OmLGAUCT7XkJEoVqDgLyH/3tw8w==
+  dependencies:
+    "@types/react" "*"
+
 "@types/react@*", "@types/react@^16.9.42":
   version "16.9.42"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.42.tgz#9776508d59c1867bbf9bd7f036dab007fdaa1cb7"
